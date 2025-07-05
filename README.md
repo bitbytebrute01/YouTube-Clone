@@ -30,9 +30,6 @@ youtube-clone/
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
-
-  (screenshot.png)
-
   
 ## 🚀 Getting Started
 
