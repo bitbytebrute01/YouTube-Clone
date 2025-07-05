@@ -18,3 +18,26 @@ This is a **YouTube homepage clone** built entirely using **HTML** and **CSS**. 
 
 ## 📁 Project Structure
 
+youtube-clone/
+├── index.html
+├── style.css
+└── thumbnails/
+├── images/
+└── icons/
+
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+
+## 📸 Screenshots
+![YouTube Clone Screenshot](screenshot.png)
+
+## 🚀 Getting Started
+
+To view it locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/youtube-clone-html-css.git
