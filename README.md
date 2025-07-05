@@ -31,9 +31,9 @@ youtube-clone/
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 
-## 📸 Screenshots
-![YouTube Clone Screenshot](screenshot.png)
+  (screenshot.png)
 
+  
 ## 🚀 Getting Started
 
 To view it locally:
